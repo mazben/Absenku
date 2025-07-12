@@ -1,0 +1,2 @@
+# Absenku
+Absenku sederhana
